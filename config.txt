@@ -148,7 +148,7 @@
 [Database Parameters]
 # Participant data will be stored in this database.
 # If ON_CLOUD=1, then this defaults to env var $DATABASE_URL, if set.
-database_url = sqlite:///participants_11122026.db
+database_url = sqlite:///participants_test.db
 
 # psiTurk creates several database tables to store data and to manage aspects of
 # automated tasks, campaigns, etc...
